@@ -1,6 +1,7 @@
 [![MasterHead](https://hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sai Charan Anumolu</h1>
-<h3 align="center">A Machine Learning Enthusiastic who is crazy about Entrepreneurship </h3>
+<h3 align="center">Enthusiastically navigating the intersection of machine learning and entrepreneurship</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*1oTDnw0B32cdT0J1fBmKWg.gif">
 
 
