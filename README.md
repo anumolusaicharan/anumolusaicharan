@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Anumolu</h1>
 <h3 align="center">Enthusiastically navigating the intersection of machine learning and entrepreneurship</h3>
 
-<img align="right" alt="Coding" width="400"  src="https://im2.ezgif.com/tmp/ezgif-2-3717d3949f.gif">
+<img align="right" alt="Coding" width="400"  src="https://nag-all.com/wp-content/uploads/2022/05/Male_1_Say_Hi-.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anumolusaicharan&label=Profile%20views&color=0e75b6&style=flat" alt="anumolusaicharan" /> </p>
