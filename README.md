@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sai Charan Anumolu
 **`Commander-ENTJ`**
 
-<img align="right" alt="Coding" width="400"  src="https://nag-all.com/wp-content/uploads/2022/05/Male_1_Say_Hi-.gif">
+<img align="right" alt="Coding" width="300"  src="https://nag-all.com/wp-content/uploads/2022/05/Male_1_Say_Hi-.gif">
 
 - 🎯 Currently working on **YENoh**
 
